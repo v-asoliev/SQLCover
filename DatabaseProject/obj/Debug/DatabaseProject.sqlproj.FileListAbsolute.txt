@@ -1,0 +1,10 @@
+C:\EBSCO\SQLCover-0.5.0\src\SQLCover\DatabaseProject\bin\Debug\DatabaseProject.dacpac
+C:\EBSCO\SQLCover-0.5.0\src\SQLCover\DatabaseProject\bin\Debug\DatabaseProject.dll
+C:\EBSCO\SQLCover-0.5.0\src\SQLCover\DatabaseProject\bin\Debug\DatabaseProject.pdb
+C:\EBSCO\SQLCover-0.5.0\src\SQLCover\DatabaseProject\obj\Debug\DatabaseProject.sqlprojAssemblyReference.cache
+C:\EBSCO\SQLCover-0.5.0\src\SQLCover\DatabaseProject\obj\Debug\Model.xml
+C:\EBSCO\SQLCover-0.5.0\src\SQLCover\DatabaseProject\obj\Debug\refactor.xml
+C:\EBSCO\SQLCover-0.5.0\src\SQLCover\DatabaseProject\obj\Debug\postdeploy.sql
+C:\EBSCO\SQLCover-0.5.0\src\SQLCover\DatabaseProject\obj\Debug\predeploy.sql
+C:\EBSCO\SQLCover-0.5.0\src\SQLCover\DatabaseProject\obj\Debug\DatabaseProject.dll
+C:\EBSCO\SQLCover-0.5.0\src\SQLCover\DatabaseProject\obj\Debug\DatabaseProject.pdb
